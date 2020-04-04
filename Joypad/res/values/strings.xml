@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Joypad</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_scan">开始扫描</string>
+    <string name="menu_stop">停止扫描</string>
+    
+    <string name="error_bluetooth_not_supported">手机不支持蓝牙</string>
+    <string name="ble_not_supported">手机不支持蓝牙低功耗</string>
+    
+</resources>
