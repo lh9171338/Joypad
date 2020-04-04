@@ -1,5 +1,5 @@
 # 1. Introduction
->>Virtual joypad based on Android.
+>>This repository is a virtual Bluetooth joypad based on Android. It can communicate with Bluetooth chips, transmit key informatiton and control game operations on the MCU or FPGA.
 
 # 2. Images
 ![image](https://github.com/lh9171338/Joypad/tree/master/Image/icon-01.jpg)  
